@@ -8,9 +8,9 @@ Este proyecto es una aplicación web desarrollada con **Vue 3 + JavaScript + Vit
 - **Vite**
 
 ## 🧩 Funcionalidades
-- Visualización de una card de un producto.
-- Visualización de las variantes del producto y disponibilidad.
+- Visualización de las variantes de un producto.
 - Carrito de compras.
+- Vista sobre la disponibilidad.
 - Componente principal `HomePageComponent.vue` con imágenes dinámicas.
 
 ## ⚙️ Instalación y Uso
