@@ -1,4 +1,5 @@
 # 🧥 Mini Catálogo de Tienda de Ropa
+Video de entrenamiento R3: https://www.youtube.com/watch?v=s9URD3PefTk
 
 Este proyecto es una aplicación web desarrollada con **Vue 3 + JavaScript + Vite**, que simula un pequeño catálogo de una tienda de ropa. Permite visualizar la informacion de un producto, con imágenes e información básica.
 
